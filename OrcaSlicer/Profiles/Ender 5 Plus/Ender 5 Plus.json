@@ -1,0 +1,53 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality CR-10 Max 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_max_acceleration_extruding": [
+        "5000",
+        "500"
+    ],
+    "machine_max_acceleration_retracting": [
+        "5000",
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "15000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "4500",
+        "500"
+    ],
+    "machine_max_speed_x": [
+        "300",
+        "500"
+    ],
+    "machine_max_speed_y": [
+        "200",
+        "500"
+    ],
+    "machine_start_gcode": "M140 S[bed_temperature_initial_layer_single]\nPRINT_START HOTEND=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] \nPRIME_NOZZLE",
+    "name": "Ender 5 Plus",
+    "print_host": "192.168.86.163",
+    "printable_area": [
+        "0x0",
+        "350x0",
+        "350x350",
+        "0x350"
+    ],
+    "printable_height": "400",
+    "printer_settings_id": "Ender 5 Plus",
+    "retraction_length": [
+        "4.5"
+    ],
+    "thumbnails": [
+        "32x32",
+        "300x400"
+    ],
+    "version": "1.5.0.2",
+    "z_hop_types": [
+        "Slope Lift"
+    ]
+}
