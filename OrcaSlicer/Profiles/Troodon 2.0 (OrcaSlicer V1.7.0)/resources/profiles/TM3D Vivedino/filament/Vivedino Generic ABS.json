@@ -12,16 +12,16 @@
     "filament_max_volumetric_speed": [
         "12"
     ],
-"compatible_printers": [
-       "Vivedino Troodon 2.0 350 0.4 nozzle",
-       "Vivedino Troodon 2.0 350 0.6 nozzle",
-       "Vivedino Troodon 2.0 350 0.8 nozzle",
-       "Vivedino Troodon 1.0 300 0.4 nozzle",
-       "Vivedino Troodon 1.0 300 0.6 nozzle",
-       "Vivedino Troodon 1.0 300 0.8 nozzle",
-       "Vivedino Troodon 1.0 400 0.4 nozzle",
-       "Vivedino Troodon 1.0 400 0.6 nozzle",
-       "Vivedino Troodon 1.0 400 0.8 nozzle"
-    ]
+     "compatible_printers": [
+        "Vivedino Troodon 2.0 350 0.4 nozzle",
+        "Vivedino Troodon 2.0 350 0.6 nozzle",
+        "Vivedino Troodon 2.0 350 0.8 nozzle",
+        "Vivedino Troodon 1.0 300 0.4 nozzle",
+        "Vivedino Troodon 1.0 300 0.6 nozzle",
+        "Vivedino Troodon 1.0 300 0.8 nozzle",
+        "Vivedino Troodon 1.0 400 0.4 nozzle",
+        "Vivedino Troodon 1.0 400 0.6 nozzle",
+        "Vivedino Troodon 1.0 400 0.8 nozzle"
+     ]
 }
 
