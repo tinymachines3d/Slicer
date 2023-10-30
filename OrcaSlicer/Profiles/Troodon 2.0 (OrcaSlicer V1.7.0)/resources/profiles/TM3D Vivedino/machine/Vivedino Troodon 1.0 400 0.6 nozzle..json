@@ -1,0 +1,22 @@
+{
+  "type": "machine",
+  "setting_id": "GM001",
+  "name": "Vivedino Troodon 1.0 400 0.6 nozzle",
+  "from": "system",
+  "instantiation": "true",
+  "inherits": "fdm_klipper_common",
+  "printer_model": "Vivedino Troodon 1.0 400",
+  "nozzle_diameter": [
+    "0.6"
+  ],
+  "printable_area": [
+    "0x0",
+    "400x0",
+    "400x400",
+    "0x400"
+  ],
+  "printable_height": "475",
+  "upward_compatible_machine":[
+    "Vivedino Troodon 1.0 400 0.6 nozzle"
+  ]
+}
